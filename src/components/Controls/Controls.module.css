@@ -1,0 +1,13 @@
+.controlsBtn {
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+
+  border-radius: 15px;
+}
+.controlsList {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+

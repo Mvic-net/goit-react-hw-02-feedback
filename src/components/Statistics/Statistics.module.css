@@ -1,0 +1,13 @@
+.statisticsTitle {
+  color: brown;
+}
+
+.statisticList {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.statisticsListItem {
+  text-align: center;
+}
